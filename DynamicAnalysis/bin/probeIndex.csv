@@ -1,0 +1,44 @@
+1,Entering,Test.<init>()
+2,Exiting,Test.<init>()
+3,Entering,Test.main()
+4,Object Create,Student,7907968
+5,Object Create,Course,24192593
+6,Object Create,Grade,15794899
+7,Object Create,Student,2355643
+8,Object Create,Grade,10520143
+9,Object Create,java/lang/StringBuilder,30831739
+10,Object Create,java/lang/StringBuilder,9104244
+11,Object Create,Teacher,28318458
+12,Object Create,java/lang/StringBuilder,9996039
+13,Object Create,java/lang/StringBuilder,27988400
+14,Object Create,java/lang/StringBuilder,5424820
+15,Object Create,java/lang/StringBuilder,20357537
+16,Exiting,Test.main()
+17,Entering,Course.getCode()
+18,Exiting,Course.getCode()
+19,Entering,Course.<init>()
+20,Exiting,Course.<init>()
+21,Entering,Course.<init>()
+22,Exiting,Course.<init>()
+23,Entering,Course.setCode()
+24,Exiting,Course.setCode()
+25,Entering,Course.getName()
+26,Exiting,Course.getName()
+27,Entering,Course.setName()
+28,Exiting,Course.setName()
+29,Entering,Student.<init>()
+30,Object Create,Course,31556811
+31,Object Create,Grade,15245345
+32,Exiting,Student.<init>()
+33,Entering,Student.toString()
+34,Object Create,java/lang/StringBuilder,274614
+35,Exiting,Student.toString()
+36,Entering,Student.addCourseGrade()
+37,Exiting,Student.addCourseGrade()
+38,Entering,Student.printGrades()
+39,Object Create,java/lang/StringBuilder,14801602
+40,Exiting,Student.printGrades()
+41,Entering,Student.getAverageGrade()
+42,Exiting,Student.getAverageGrade()
+43,Entering,Student.main()
+44,Exiting,Student.main()

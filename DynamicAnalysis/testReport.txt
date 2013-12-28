@@ -1,0 +1,8 @@
+Test test_015 failed: Expected equal to -1, actual result :9500
+Report on the tests runned: 
+ **** runs=34
+ **** fails=1
+ **** successes=33
+ **** executionFailures=0
+Percentage of success tests is: 97.1% 
+Percentage of failure tests is: 2.9000000000000004% 
