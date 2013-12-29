@@ -1,0 +1,6 @@
+Multipicity
+Current Class,Accessability,varName,Type,Generics,Multiplicity
+Teacher,private,course,LCourse;,Not using generics,0..1
+Person,private,address,LAddress;,Not using generics,0..1
+Student,private,course,LCourse;,Not using generics,0..1
+Student,private,grade,LGrade;,Not using generics,0..1

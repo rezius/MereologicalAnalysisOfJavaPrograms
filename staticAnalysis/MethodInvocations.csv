@@ -1,0 +1,9 @@
+Calling property
+Type of Invocation,Method name,Class Belonging,Method owner
+INVOKESPECIAL,<init>,Teacher,Person
+INVOKESPECIAL,<init>,Teacher,Course
+INVOKESPECIAL,<init>,Teacher,Course
+INVOKESPECIAL,<init>,Student,Person
+INVOKESPECIAL,<init>,Student,Grade
+INVOKEVIRTUAL,getName,Student,Course
+INVOKEVIRTUAL,getGrade,Student,Grade

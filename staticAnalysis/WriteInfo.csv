@@ -1,0 +1,24 @@
+Multipicity
+Current Class,Accessability,varName,Type,Generics,Multiplicity
+Teacher,private,course,LCourse;,Not using generics,0..1
+Person,private,address,LAddress;,Not using generics,0..1
+Student,private,course,LCourse;,Not using generics,0..1
+Student,private,grade,LGrade;,Not using generics,0..1
+
+Generalizations
+Class,Superclass
+Class:Course,No
+Class:Grade,No
+Class:Teacher,Class:Person
+Class:Address,No
+Class:Person,No
+Class:Student,Class:Person
+Calling property
+Type of Invocation,Method name,Class Belonging,Method owner
+INVOKESPECIAL,<init>,Teacher,Person
+INVOKESPECIAL,<init>,Teacher,Course
+INVOKESPECIAL,<init>,Teacher,Course
+INVOKESPECIAL,<init>,Student,Person
+INVOKESPECIAL,<init>,Student,Grade
+INVOKEVIRTUAL,getName,Student,Course
+INVOKEVIRTUAL,getGrade,Student,Grade

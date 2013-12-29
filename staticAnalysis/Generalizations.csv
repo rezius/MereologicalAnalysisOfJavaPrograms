@@ -1,0 +1,8 @@
+Generalizations
+Class,Superclass
+Class:Course,No
+Class:Grade,No
+Class:Teacher,Class:Person
+Class:Address,No
+Class:Person,No
+Class:Student,Class:Person
